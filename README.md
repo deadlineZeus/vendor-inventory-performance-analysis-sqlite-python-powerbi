@@ -55,8 +55,8 @@ Vendor and inventory performance directly influence **profitability**, **cash fl
 
 <details>
 <summary id="project-workflow-overview"><strong>Project Workflow Overview</strong></summary>
-
-**Workflow Pipeline:**
+<br>
+  
 CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboard → Insights & Recommendations
 
 **Phases:**
@@ -65,7 +65,7 @@ CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboa
 - **Phase 2 – Vendor_Performance_Analysis.ipynb**  
   Statistical analysis, answering business questions, creating visualizations, and generating actionable insights.
 
-![Workflow Diagram](assets/workflow_diagram.png)
+![Workflow Diagram](assets/Project_Flowchart.png)
 
 </details>
 
@@ -73,6 +73,7 @@ CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboa
 
 <details>
 <summary id="tools--technologies"><strong>Tools & Technologies</strong></summary>
+<br>
 
 | Category | Tools / Languages |
 |----------|-------------------|
@@ -89,6 +90,7 @@ CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboa
 
 <details>
 <summary id="data-preparation--processing"><strong>Data Preparation & Processing</strong></summary>
+<br>
 
 **Manager Summary:**  
 Data was cleaned, standardized, and merged into a single vendor performance dataset for accurate analysis. This dataset powered a **live interactive Power BI dashboard** for real-time vendor and inventory insights.
@@ -123,8 +125,9 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="statistical-analysis--visualizations"><strong>Statistical Analysis & Visualizations</strong></summary>
-
-**Statistics Applied:**
+<br>
+  
+**Statistical concepts Applied:**
 - Descriptive stats (max, min, mean, std, quartiles)
 - Outlier detection (IQR)
 - Correlation analysis
