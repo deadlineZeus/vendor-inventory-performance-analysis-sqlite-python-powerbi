@@ -35,6 +35,8 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 - [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
+  </details>
+
 ---
 
 <details>
