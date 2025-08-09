@@ -241,3 +241,5 @@ Author: Rajdeep Ray
 🐙 GitHub: https://github.com/deadlineZeus/vendor-inventory-performance-analysis-sqlite-python-powerbi
 
 </details> 
+
+---
