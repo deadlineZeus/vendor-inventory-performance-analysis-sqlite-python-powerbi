@@ -118,7 +118,7 @@ Data was cleaned, standardized, and merged into a single vendor performance data
   - Added **calculated columns** in DAX for improved filtering and metrics.
   - Built **live dashboard** with filters, slicers, and drill-down capabilities.  
   - Example View:  
-    ![Dashboard Screenshot](assets/dashboard_sample.png)
+    ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
 </details>
 
