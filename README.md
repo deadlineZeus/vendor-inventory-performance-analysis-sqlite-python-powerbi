@@ -218,6 +218,9 @@ vendor-performance-analysis/
 ```
 
 </details>
+
+---
+
 <details> <summary id="future-enhancements"><strong>Future Enhancements</strong></summary>
 Real-time vendor tracking
 
@@ -237,4 +240,4 @@ Author: Rajdeep Ray
 💼 LinkedIn: https://www.linkedin.com/in/rajdeep-ray-3616501b6/
 🐙 GitHub: https://github.com/deadlineZeus/vendor-inventory-performance-analysis-sqlite-python-powerbi
 
-</details> ```
+</details> 
