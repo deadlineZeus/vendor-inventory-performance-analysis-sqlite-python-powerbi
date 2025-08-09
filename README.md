@@ -207,14 +207,62 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 ```bash
 vendor-performance-analysis/
 │
-├── assets/             # Images & banners for README
-├── data/               # Raw & cleaned datasets
-├── notebooks/          # Jupyter notebooks
-├── dashboards/         # Power BI files
-├── scripts/            # ingestion_db.py, get_vendor_summary.py
-├── visuals/            # Exported charts
-├── log/                # Logging files
-└── README.md
+├── assets/
+|    └── Project_Flowchart.png                         # Images & banners for README
+|
+├── data/
+|    └── processed/                                    # Agreegated table after initial analysis
+|    |    └── vendor_sales_summary_sample.csv
+|    |
+|    └── raw/                                          # Raw & cleaned datasets with limited records
+|         └── begin_inventory_sample.csv
+|         └── end_inventory_sample.csv
+|         └── purchase_prices_sample.csv
+|         └── purchases_sample.csv
+|         └── sales_sample.csv
+|         └── vendor_invoice_sample.csv           
+|
+├── deliverables/
+|    └── final_report.pdf
+|    └── vendor_performance_analysis_dashboard.pbix
+|
+├── log/
+|     └── ingestion_db.py         # Logging files
+|     └── get_vendor_summary.log
+|
+├── notebooks/
+|    └── Exploratory_Data_Anaysis.ipynb
+|    └── Vendor_Performance_Analysis.ipynb              # Jupyter notebooks
+| 
+├── scripts/
+|    └── get_vendor_summary.py                                # Jupyter notebooks
+|    └── ingestion_db.py
+|                               
+├── visuals/
+|    └── P1.png
+|    └── P2.png
+|    └── P3.png
+|    └── P4.png
+|    └── P5.png
+|    └── P6.png
+|    └── P7.png
+|    └── P8.png
+|    └── P9.png
+|    └── P10.png
+|    └── P11.png
+|    └── P12.png                           
+|    └── P13.png
+|    └── P14.png
+|    └── P15.png
+|    └── P16.png
+|    └── P18.png
+|    └── P19.png
+|    └── logo.jpeg
+|    └── power_bi_dashboard_live_demo.mp4 
+|               
+├── README.md
+|
+└── requirements.txt                                 # Important libraries from python that were used
 ```
 
 </details>
