@@ -65,7 +65,7 @@ CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboa
 - **Phase 2 – Vendor_Performance_Analysis.ipynb**  
   Statistical analysis, answering business questions, creating visualizations, and generating actionable insights.
 
-![Workflow Diagram](assets/Project_Flowchart.png)
+![Workflow Diagram](assets/project_flowchart.png)
 
 </details>
 
