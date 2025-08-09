@@ -116,8 +116,10 @@ Data was cleaned, standardized, and merged into a single vendor performance data
     2. **LowTurnoverVendors** – AvgStockTurnover, VendorName  
     3. **PurchaseContribution** – PurchaseContribution%, TotalPurchaseDollars, VendorName  
   - Added **calculated columns** in DAX for improved filtering and metrics.
-  - Built **live dashboard** with filters, slicers, and drill-down capabilities.  
-  - Example View:  
+  - Built **live dashboard** with filters, slicers, and drill-down capabilities.
+  - Example DAX tables View:  
+    ![Dashboard Screenshot](assets/dax.png) 
+  - Example Dashboard View:  
     ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
 </details>
