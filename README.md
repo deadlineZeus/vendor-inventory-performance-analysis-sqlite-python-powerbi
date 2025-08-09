@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[assets/vendor_performance_banner.png](https://www.bing.com/images/search?view=detailV2&ccid=xioH2pvY&id=CD75F776C9F7F5EFF0EF56D0BC21C424813D1FF2&thid=OIP.xioH2pvY1IF4nFjz6EIA1gHaEJ&mediaurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fphoto-portrait-happy-warehouse-workers-warehouse-management-team-working_763111-72237.jpg%3Fw%3D2000&exph=1121&expw=2000&q=vendor+inventory+management&simid=607987170642962342&form=IRPRST&ck=C211ACF3642D566E121FF5EC3B8FEF4B&selectedindex=20&itb=0&cw=1375&ch=664&ajaxhist=0&ajaxserp=0&vt=2&sim=11&iss=VSI&cit=ccid_w94SwW5l*cp_2B7F4377A9AB7F854908C114BF77A33E*mid_6C5C2144F0C72AAB3716E21E9CC646870F0454DD*simid_608047463409910909*thid_OIP.w94SwW5lgHZdEX24OJNWRQHaE8)" alt="Vendor Performance Analysis" width="800"/>
+  <img src="visuals/logo.jpeg" alt="Vendor Performance Analysis" width="800"/>
 </p>
 
 # Vendor Performance Analysis: Optimizing Vendor & Inventory Strategies
