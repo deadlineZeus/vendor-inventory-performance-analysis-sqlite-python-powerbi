@@ -117,7 +117,10 @@ Data was cleaned, standardized, and merged into a single vendor performance data
     3. **PurchaseContribution** – PurchaseContribution%, TotalPurchaseDollars, VendorName  
   - Added **calculated columns** in DAX for improved filtering and metrics.
 - Built **live dashboard** with filters, slicers, and drill-down capabilities.  
-- [▶️ Watch Live Dashboard Demo](https://youtu.be/6Yqrk_L77L8?si=JEH4S584lxLcvZdb)
+- Built **live dashboard** with filters, slicers, and drill-down capabilities.  
+
+[![▶️ Live Dashboard Demo](https://img.youtube.com/vi/6Yqrk_L77L8/0.jpg)](https://youtu.be/6Yqrk_L77L8?si=JEH4S584lxLcvZdb)
+
   - Example DAX tables View:  
     ![Dashboard Screenshot](assets/dax.png) 
   - Example Dashboard View:  
