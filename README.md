@@ -17,7 +17,10 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 
 ---
 
-## Table of Contents
+<details>
+<summary id="table-of-content"><strong>Table of Content</strong></summary>
+
+  ## Table of Contents
 
 - [Business Context & Objectives](#business-context--objectives)
 - [Project Workflow Overview](#project-workflow-overview)
