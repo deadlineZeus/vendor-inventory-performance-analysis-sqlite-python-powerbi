@@ -102,8 +102,8 @@ Data was cleaned, standardized, and merged into a single vendor performance data
   2. `get_vendor_summary.py` – Runs SQL aggregations, cleans/enriches data, calculates KPIs, uploads summary table to database, logs process.
 
 - **Logging:**
-  1 `log/logging.log` → Tracks CSV ingestion.
-  2 `log/get_vendor_summary.log` → Tracks vendor summary creation & upload.
+  1. `log/logging.log` → Tracks CSV ingestion.
+  2. `log/get_vendor_summary.log` → Tracks vendor summary creation & upload.
 
 - **SQL Used:** JOIN, GROUP BY, CTEs, subqueries, filtering.
 
