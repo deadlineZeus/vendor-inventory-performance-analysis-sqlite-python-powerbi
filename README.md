@@ -17,7 +17,7 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 
 ---
 
-<details>
+<details open>
 <summary id="table-of-content"><strong>Table of Content</strong></summary>
 
 - [Business Context & Objectives](#business-context--objectives)
