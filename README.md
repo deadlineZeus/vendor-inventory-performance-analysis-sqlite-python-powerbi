@@ -216,6 +216,7 @@ vendor-performance-analysis/
 ├── log/                # Logging files
 └── README.md
 ```
+
 </details>
 <details> <summary id="future-enhancements"><strong>Future Enhancements</strong></summary>
 Real-time vendor tracking
@@ -227,6 +228,9 @@ Predictive vendor risk modeling
 Multi-year trend analysis
 
 </details>
+
+---
+
 <details> <summary id="contact"><strong>Contact</strong></summary>
 Author: Rajdeep Ray
 📧 Email: rajdeepray.c48.it@gmail.com
