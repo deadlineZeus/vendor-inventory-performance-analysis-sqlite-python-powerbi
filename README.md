@@ -40,8 +40,6 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 <details>
 <summary id="business-context--objectives"><strong>Business Context & Objectives</strong></summary>
 
-## Business Context & Objective
-
 Vendor and inventory performance directly influence **profitability**, **cash flow**, and **supply chain stability**. The **core business challenge** is to determine how to **optimize vendor relationships** and **streamline inventory management** in order to reduce costs and enhance operational efficiency.
 
 **Key Objectives:**  
