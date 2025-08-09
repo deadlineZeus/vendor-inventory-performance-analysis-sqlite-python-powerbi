@@ -102,8 +102,8 @@ Data was cleaned, standardized, and merged into a single vendor performance data
   2. `get_vendor_summary.py` – Runs SQL aggregations, cleans/enriches data, calculates KPIs, uploads summary table to database, logs process.
 
 - **Logging:**
-  - `log/logging.log` → Tracks CSV ingestion.
-  - `log/get_vendor_summary.log` → Tracks vendor summary creation & upload.
+  1 `log/logging.log` → Tracks CSV ingestion.
+  2 `log/get_vendor_summary.log` → Tracks vendor summary creation & upload.
 
 - **SQL Used:** JOIN, GROUP BY, CTEs, subqueries, filtering.
 
@@ -184,6 +184,7 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="recommendations"><strong>Recommendations</strong></summary>
+<br>
 
 1. Re-evaluate pricing for high-margin, low-sales brands.
 2. Optimize slow-moving stock with refined purchasing and clearance promotions.
@@ -199,6 +200,7 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="technical-execution-details"><strong>Technical Execution Details</strong></summary>
+<br>
 
 - **SQL:** JOINs, aggregations, subqueries, CTE-based summaries.
 - **Python:** Data cleaning, metric calculations, outlier detection, binning.
@@ -210,6 +212,7 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="folder-structure"><strong>Folder Structure</strong></summary>
+<br>
 
 ```bash
 vendor-performance-analysis/
@@ -277,6 +280,7 @@ vendor-performance-analysis/
 ---
 
 <details> <summary id="future-enhancements"><strong>Future Enhancements</strong></summary>
+<br>
   
 - Real-time vendor tracking
 
@@ -291,6 +295,8 @@ vendor-performance-analysis/
 ---
 
 <details> <summary id="contact"><strong>Contact</strong></summary>
+<br>
+  
 Author: Rajdeep Ray
 📧 Email: rajdeepray.c48.it@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/rajdeep-ray-3616501b6/
