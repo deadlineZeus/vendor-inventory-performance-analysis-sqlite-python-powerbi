@@ -6,6 +6,7 @@
 
 <details open>
 <summary><strong><span style="font-size: 1.25em;">Executive Summary and Overview</span></strong></summary>
+<br>
 
 This project focuses on **optimizing vendor performance and inventory management** to reduce costs, improve supply chain resilience, and enhance profitability.  
 
@@ -149,6 +150,7 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="general-findings"><strong>General Findings</strong></summary>
+<br>
 
 - Loss-making transactions due to high costs or zero revenue.
 - Outliers:  
@@ -165,7 +167,8 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 
 <details>
 <summary id="strategic-findings"><strong>Strategic Findings</strong></summary>
-
+<br>
+  
 - **High-Margin, Low-Sales Brands:** 198 brands show high profitability but low sales volume.  
 - **Vendor Dependency:** Top 10 vendors = 65.69% of purchases.  
 - **Bulk Purchase Benefits:** 72% lower unit cost for large orders.  
