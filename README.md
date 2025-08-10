@@ -161,7 +161,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary><strong>General Findings</strong></summary>
+<summary id="general-insights"><strong>General Insights</strong></summary>
 
 **_(Click each insight to see the supporting chart)_**
 
@@ -197,11 +197,10 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 </details>
 
-
 ---
 
 <details>
-<summary><strong>Strategic Findings</strong></summary>
+<summary id="strategic-insights"><strong>Strategic Insights</strong></summary>
 
 **_(Click each insight to see the evidence)_**
 
@@ -236,7 +235,6 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 </details>
 
 </details>
-
 
 ---
 
