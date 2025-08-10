@@ -384,6 +384,8 @@ bash
 vendor-performance-analysis/
 │
 ├── assets/
+|    └── dax.png 
+|    └── dashboard_screenshot.png
 |    └── Project_Flowchart.png                         # Images & banners for README
 |
 ├── data/
@@ -433,6 +435,7 @@ vendor-performance-analysis/
 |    └── P16.png
 |    └── P18.png
 |    └── P19.png
+|    └── P20.png
 |    └── logo.jpeg
 |    └── power_bi_dashboard_live_demo.mp4 
 |               
