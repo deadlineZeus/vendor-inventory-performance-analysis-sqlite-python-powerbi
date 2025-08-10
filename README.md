@@ -291,10 +291,9 @@ Brands such as <em>Santa Rita Organic Sauvignon Blanc</em>, <em>Crown Royal Appl
 <details>
 <summary><strong>2. Which vendors and brands demonstrate the highest sales performance?</strong></summary>
 <br>
-GDIAGEO NORTH AMERICA INC (\$67.99M), MARTIGNETTI COMPANIES (\$39.33M), PERNOD RICARD USA (\$32.06M), and JIM BEAM BRANDS COMPANY (\$31.42M) lead sales, each surpassing \$31M.
-  
-On the brand side, Jack Daniels No 7 Black (\$7.96M), Tito's Handmade Vodka (\$7.40M), Grey Goose Vodka (\$7.21M), and Capt Morgan Spiced Rum (\$6.36M) drive category revenue, with all exceeding \$6M annually.
+The vendors demonstrating the highest sales performance are led by DIAGEO NORTH AMERICA INC with $67.99M in total sales, followed by MARTIGNETTI COMPANIES at $39.33M. These top vendors significantly outpace others in the market, reflecting strong distribution networks and sustained consumer loyalty.
 
+On the brand side, Jack Daniels No 7 Black leads with $7.96M in sales, closely followed by Tito's Handmade Vodka ($7.40M) and Grey Goose Vodka ($7.21M). Each of these top brands generates over $7M annually, indicating robust consumer demand, strong brand recognition, and consistent market presence. Together, these vendors and brands dominate their respective categories, capturing a substantial share of total market revenue.
 </details>
 
 <details>
@@ -330,7 +329,7 @@ Over $2.71M is tied up in unsold inventory across vendors, with one vendor holdi
 <details>
 <summary><strong>8. Which vendors achieve the highest gross profit dollars?</strong></summary>
 <br>
-<em>Ashley Furniture</em> achieves the highest gross profit dollars, combining strong sales volumes with cost efficiency. This reflects effective supply chain management and sustained demand for their products.
+<em>DIAEGO NORTH AMERICA INC</em> and <em>MARTIGNETTI COMPANIES</em> tops the list of vendors with most gross profit with $17.89M and $13.83M profit respectively. This is followed by <em>CONSTELLATION BRAND INC</em> and <em>PERNOD RICHARD USA</em> with $8.9M and $8.2M net profit respectively.
 </details>
 
 <details>
