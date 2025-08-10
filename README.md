@@ -207,7 +207,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Some products incur significant losses, with gross profit minimum reaching -52,000+, indicating pricing or cost issues.</summary>
-<img src="visuals/P21.png" alt="Gross Profit Losses Overview" width="600" />
+<img src="visuals/P21.jpg" alt="Gross Profit Losses Overview" width="600" />
 </details>
 
 <details>
