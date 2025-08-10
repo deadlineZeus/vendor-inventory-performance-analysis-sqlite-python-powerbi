@@ -99,13 +99,13 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 **High Level Details:**  
 - **Scripts & Logging:**  
-  - `ingestion_db.py` — Loads CSVs into SQLite with large-file handling and ingestion logs (`log/logging.log`).  
-  - `get_vendor_summary.py` — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (`log/get_vendor_summary.log`).  
+  - ingestion_db.py — Loads CSVs into SQLite with large-file handling and ingestion logs (log/logging.log).  
+  - get_vendor_summary.py — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (log/get_vendor_summary.log).  
 
 - **Tech Stack Usage:**  
   - **SQL** — JOIN, GROUP BY, CTEs, subqueries, filtering.  
   - **Python (pandas)** — Column creation, type conversion, custom functions, missing-value handling.  
-  - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.
+  - **Power BI** — Loaded vendor_sales_summary, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.
     
 </details>
 
@@ -161,67 +161,17 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary><strong>Strategic Findings</strong></summary>
+<summary id="general-findings"><strong>General Findings</strong></summary>
 <br>
 
-<details>
-<summary><strong>High-Margin, Low-Sales Brands:</strong> 198 brands show high profitability but low sales volume.</summary>
+- Loss-making transactions due to high costs or zero revenue.
+- Outliers:  
+  - Purchase Price max = 5,681.81 vs mean = 24.39  
+  - Freight Cost range = 0.09 to 257,032.07  
+- Strong correlation between purchase quantity and sales quantity (0.999).
+- Weak correlation between purchase price and gross profit (–0.016).
 
-<br>
-<img src="visuals/strategic_high_margin_low_sales.png" alt="High-Margin Low-Sales Brands Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-<details>
-<summary><strong>Vendor Dependency:</strong> Top 10 vendors = 65.69% of purchases.</summary>
-
-<br>
-<img src="visuals/strategic_vendor_dependency.png" alt="Vendor Dependency Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-<details>
-<summary><strong>Bulk Purchase Benefits:</strong> 72% lower unit cost for large orders.</summary>
-
-<br>
-<img src="visuals/strategic_bulk_purchase_benefits.png" alt="Bulk Purchase Benefits Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-<details>
-<summary><strong>Slow-Moving Inventory:</strong> $2.71M tied up in low-turnover stock.</summary>
-
-<br>
-<img src="visuals/strategic_slow_moving_inventory.png" alt="Slow-Moving Inventory Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-<details>
-<summary><strong>Profit Margin Models:</strong> Low-performing vendors have higher margins but lower sales.</summary>
-
-<br>
-<img src="visuals/strategic_profit_margin_models.png" alt="Profit Margin Models Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-<details>
-<summary><strong>Statistical Validation:</strong> Significant profit margin difference between top & low vendors.</summary>
-
-<br>
-<img src="visuals/strategic_statistical_validation.png" alt="Statistical Validation Chart" style="max-width:100%; border-radius:6px;">
-
-</details>
-
-
-<details>
-<summary><strong>Statistical Validation:</strong> Significant profit margin difference between top & low vendors.</summary>
-
-![Statistical Validation Chart](visuals/strategic_statistical_validation.png)
-
-</details>
-
-</details>
-
+![General Findings Chart](assets/general_findings_chart.png)
 
 </details>
 
@@ -276,7 +226,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <summary id="folder-structure"><strong>Folder Structure</strong></summary>
 <br>
 
-```bash
+bash
 vendor-performance-analysis/
 │
 ├── assets/
@@ -335,7 +285,7 @@ vendor-performance-analysis/
 ├── README.md
 |
 └── requirements.txt                                 # Important libraries from python that were used
-```
+
 
 </details>
 
