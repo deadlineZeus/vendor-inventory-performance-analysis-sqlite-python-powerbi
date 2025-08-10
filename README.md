@@ -80,10 +80,10 @@ CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database �
 | Category | Tools / Languages |
 |----------|-------------------|
 | **Business Intelligence** | Power BI, DAX, M Language |
-| **Python Libraries** | pandas, numpy, matplotlib, seaborn, sqlite3, SQLAlchemy ORM |
-| **Database** | SQLite |
-| **SQL Features Used** | JOIN, WHERE, GROUP BY, ORDER BY, subqueries, CTEs, table creation |
-| **Statistics** | Descriptive statistics, IQR, percentiles, quantile discretization, cumulative sum, confidence intervals, hypothesis testing, significance testing, t-test |
+| **Python Libraries** | pandas, numpy, matplotlib, seaborn, sqlite3, SQLAlchemy |
+| **Database** | SQLite | 
+| **SQL Features Used** | JOIN, WHERE, GROUP BY, ORDER BY, Subqueries, CTEs, Table creation |
+| **Statistics** | Descriptive statistics, IQR, Percentiles, Quantile discretization, Cumulative sum, Confidence intervals, Hypothesis testing, Significance testing, T-test |
 | **IDE / Environment** | Jupyter Notebook |
 
 </details>
