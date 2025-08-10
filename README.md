@@ -119,9 +119,15 @@ Data was cleaned, standardized, and merged into a single vendor performance data
 - Built **live dashboard** with filters, slicers, and drill-down capabilities.  
 - Built **live dashboard** with filters, slicers, and drill-down capabilities.  
 
-[▶️ **Check live demo**](https://youtu.be/6Yqrk_L77L8)
+<p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
+<strong>▶️ Check live demo</strong>
+</a></p>
 
-[![Top demo — Vendor Performance Analysis (Play)](https://img.youtube.com/vi/6Yqrk_L77L8/maxresdefault.jpg)](https://youtu.be/6Yqrk_L77L8)
+<a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.youtube.com/vi/6Yqrk_L77L8/hqdefault.jpg"
+       alt="Vendor Performance Analysis — Live demo"
+       style="width:100%; max-width:800px; border-radius:6px;">
+</a>
 
 
   - Example DAX tables View:  
