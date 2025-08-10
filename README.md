@@ -178,19 +178,42 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary id="strategic-findings"><strong>Strategic Findings</strong></summary>
-<br>
-  
-- **High-Margin, Low-Sales Brands:** 198 brands show high profitability but low sales volume.  
-- **Vendor Dependency:** Top 10 vendors = 65.69% of purchases.  
-- **Bulk Purchase Benefits:** 72% lower unit cost for large orders.  
-- **Slow-Moving Inventory:** $2.71M tied up in low-turnover stock.  
-- **Profit Margin Models:** Low-performing vendors have higher margins but lower sales.  
-- **Statistical Validation:** Significant profit margin difference between top & low vendors.
+<summary><strong>Strategic Findings</strong></summary>
 
-![Strategic Findings Chart](assets/strategic_findings_chart.png)
+**_(Click each insight to see the evidence)_**
+
+<details>
+<summary>• High-Margin, Low-Sales Brands: 198 brands show high profitability but low sales volume.</summary>
+<img src="visuals/P13.png" alt="High-Margin Low-Sales Brands Chart" width="600" />
+</details>
+
+<details>
+<summary>• Vendor Dependency: Top 10 vendors = 65.69% of purchases.</summary>
+<img src="visuals/P14.png" alt="Vendor Dependency Chart" width="600" />
+</details>
+
+<details>
+<summary>• Bulk Purchase Benefits: 72% lower unit cost for large orders.</summary>
+<img src="visuals/P15.png" alt="Bulk Purchase Benefits Chart" width="600" />
+</details>
+
+<details>
+<summary>• Slow-Moving Inventory: $2.71M tied up in low-turnover stock.</summary>
+<img src="visuals/P16.png" alt="Slow-Moving Inventory Chart" width="600" />
+</details>
+
+<details>
+<summary>• Profit Margin Models: Low-performing vendors have higher margins but lower sales.</summary>
+<img src="visuals/P18.png" alt="Profit Margin Models Chart" width="600" />
+</details>
+
+<details>
+<summary>• Statistical Validation: Significant profit margin difference between top & low vendors.</summary>
+<img src="visuals/P19.png" alt="Statistical Validation Chart" width="600" />
+</details>
 
 </details>
+
 
 ---
 
