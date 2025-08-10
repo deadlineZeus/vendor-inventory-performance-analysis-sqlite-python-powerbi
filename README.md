@@ -291,7 +291,7 @@ Brands such as <em>Santa Rita Organic Sauvignon Blanc</em>, <em>Crown Royal Appl
 <details>
 <summary><strong>2. Which vendors and brands demonstrate the highest sales performance?</strong></summary>
 <br>
-The vendors and brands demonstrating the highest sales performance are led by DIAGEO NORTH AMERICA INC with $67.99M in total sales, followed by MARTIGNETTI COMPANIES at $39.33M. These top vendors significantly outpace others in the market, reflecting strong distribution networks and sustained consumer loyalty.
+The vendors demonstrating the highest sales performance are led by DIAGEO NORTH AMERICA INC with $67.99M in total sales, followed by MARTIGNETTI COMPANIES at $39.33M. These top vendors significantly outpace others in the market, reflecting strong distribution networks and sustained consumer loyalty.
 
 On the brand side, Jack Daniels No 7 Black leads with $7.96M in sales, closely followed by Tito's Handmade Vodka ($7.40M) and Grey Goose Vodka ($7.21M). Each of these top brands generates over $7M annually, indicating robust consumer demand, strong brand recognition, and consistent market presence. Together, these vendors and brands dominate their respective categories, capturing a substantial share of total market revenue.
 </details>
