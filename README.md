@@ -106,7 +106,17 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
   - **SQL** — JOIN, GROUP BY, CTEs, subqueries, filtering.  
   - **Python (pandas)** — Column creation, type conversion, custom functions, missing-value handling.  
   - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.  
+</details>
 
+---
+
+<details>
+<summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
+**DAX and table snapshot Views:**
+  ![Dashboard Screenshot](assets/dax.png) 
+<br>
+**Dashboard snapshot Views:**
+  ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 <p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
 <strong>▶️ Check Dashbaord live demo, click down below</strong>
 </a></p>
@@ -116,18 +126,6 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
        alt="Vendor Performance Analysis — Live demo"
        style="width:100%; max-width:800px; border-radius:6px;">
 </a>
-
-</details>
-
----
-
-<details>
-<summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
-**DAX and table snapshot Views:** 
-![Dashboard Screenshot](assets/dax.png) 
-<br>
-**Dashboard snapshot Views:** 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
   
 </details>
 
