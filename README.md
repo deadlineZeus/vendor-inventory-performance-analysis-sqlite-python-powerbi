@@ -381,6 +381,7 @@ Yes. Low-performing vendors average ~41% margins versus ~31% for top performers.
 <br>
 
 bash
+```
 vendor-performance-analysis/
 │
 ├── assets/
@@ -442,6 +443,7 @@ vendor-performance-analysis/
 ├── README.md
 |
 └── requirements.txt                                 # Important libraries from python that were used
+```
 
 
 </details>
