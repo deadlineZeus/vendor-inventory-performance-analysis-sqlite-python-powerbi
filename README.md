@@ -212,7 +212,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Strong correlation (0.999) between purchase quantity and sales quantity confirms effective inventory turnover.</summary>
-<img src="visuals/P6.png" alt="Purchase vs Sales Quantity Correlation" width="600" />
+<img src="visuals/P25.jpg" alt="Purchase vs Sales Quantity Correlation" width="600" />
 </details>
 
 <details>
