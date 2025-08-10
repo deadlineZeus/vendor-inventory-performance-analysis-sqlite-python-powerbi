@@ -207,7 +207,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Some products incur significant losses, with gross profit minimum reaching -52,000+, indicating pricing or cost issues.</summary>
-<img src="visuals/P9.png" alt="Gross Profit Losses Overview" width="600" />
+<img src="visuals/P21.png" alt="Gross Profit Losses Overview" width="600" />
 </details>
 
 <details>
@@ -217,7 +217,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Freight costs vary hugely, from less than 1 to over 250,000, highlighting potential logistics inefficiencies or bulk shipments.</summary>
-<img src="visuals/P7.png" alt="Freight Cost Variation" width="600" />
+<img src="visuals/P22.png" alt="Freight Cost Variation" width="600" />
 </details>
 
 <details>
