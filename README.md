@@ -137,7 +137,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 - **SQL:**  
   - Complex queries using JOINs, GROUP BY, CTEs, subqueries, and filtering to aggregate data efficiently.
 
-- **Python (pandas):**  
+- **Python:**  
   - Data transformation tasks such as column creation, type conversions, custom function applications, and missing-value handling.
 
 - **Power BI:**  
