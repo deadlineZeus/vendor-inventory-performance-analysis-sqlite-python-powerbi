@@ -236,8 +236,6 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 5. **Diversify Vendor Base**  
    Reduce reliance on the top 10 suppliers to strengthen supply chain resilience. Expanding the vendor network ensures continuity, mitigates disruption risks, and improves negotiation leverage.
 
-![Recommendations Chart](assets/recommendations_chart.png)
-
 </details>
 
 
