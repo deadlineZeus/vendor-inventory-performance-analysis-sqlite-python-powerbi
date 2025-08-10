@@ -107,7 +107,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
   - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.  
 
 <p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
-<strong>▶️ Check live demo</strong>
+<strong>▶️ Check Dashbaord live demo, click down below</strong>
 </a></p>
 
 <a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
