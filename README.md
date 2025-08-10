@@ -222,7 +222,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Stock turnover ranges widely; some products sell fast, others remain in stock indefinitely, impacting working capital.</summary>
-<img src="visuals/P8.png" alt="Stock Turnover Range" width="600" />
+<img src="visuals/P23.jpg" alt="Stock Turnover Range" width="600" />
 </details>
 
 <details>
