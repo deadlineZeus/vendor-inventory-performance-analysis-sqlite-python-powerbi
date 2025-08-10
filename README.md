@@ -321,7 +321,7 @@ Some vendors show significantly low turnover rates, suggesting excess stock and 
 <details>
 <summary><strong>7. How much capital is locked in unsold inventory per vendor, and which vendor contributes the most?</strong></summary>
 <br>
-Over a million dollars is tied up in unsold inventory, with some vendors holding a disproportionate share. This reduces liquidity and limits investment in marketing, new products, or bulk purchasing opportunities.
+Around 2.71 million dollars is tied up in unsold inventory, with some vendors holding a disproportionate share. This reduces liquidity and limits investment in marketing, new products, or bulk purchasing opportunities.
 </details>
 
 <details>
