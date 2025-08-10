@@ -97,7 +97,7 @@ CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database �
 **Manager Summary:**  
 Data from multiple CSV files was cleaned, standardized, and merged into a unified aggregated vendor performance dataset, powering a **real-time Power BI dashboard** for vendor and inventory insights.
 
-**High level Details:**  
+**High Level Details:**  
 - **Scripts & Logging:**  
   - `ingestion_db.py` — Loads CSVs into SQLite with large-file handling and ingestion logs (`log/logging.log`).  
   - `get_vendor_summary.py` — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (`log/get_vendor_summary.log`).  
@@ -148,7 +148,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 - Quantile-based discretization
 
 **Visualizations:**
-- Histograms (KDE)
+- Histograms
 - Boxplots
 - Pie & donut charts
 - Horizontal bar charts
