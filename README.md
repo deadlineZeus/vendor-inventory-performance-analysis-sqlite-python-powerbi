@@ -227,7 +227,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Price variations have little impact on sales revenue or gross profit, indicating other factors drive profitability.</summary>
-<img src="visuals/P5.png" alt="Purchase Price Correlations" width="600" />
+<img src="visuals/P24.png" alt="Purchase Price Correlations" width="600" />
 </details>
 
 <details>
