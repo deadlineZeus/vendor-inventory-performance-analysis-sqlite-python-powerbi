@@ -94,30 +94,17 @@ CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboa
 <br>
 
 **Manager Summary:**  
-Data was cleaned, standardized, and merged into a single vendor performance dataset for accurate analysis. This dataset powered a **live interactive Power BI dashboard** for real-time vendor and inventory insights.
+Data from multiple CSV files was cleaned, standardized, and merged into a unified vendor performance dataset, powering a **real-time Power BI dashboard** for vendor and inventory insights.
 
-**Technical Details:**
-- **Scripts:**
-  1. `ingestion_db.py` – Uploads CSV files into SQLite, supports large files, logs ingestion progress/errors.
-  2. `get_vendor_summary.py` – Runs SQL aggregations, cleans/enriches data, calculates KPIs, uploads summary table to database, logs process.
+**Technical Details:**  
+- **Scripts & Logging:**  
+  - `ingestion_db.py` — Loads CSVs into SQLite with large-file handling and ingestion logs (`log/logging.log`).  
+  - `get_vendor_summary.py` — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (`log/get_vendor_summary.log`).  
 
-- **Logging:**
-  1. `log/logging.log` → Tracks CSV ingestion.
-  2. `log/get_vendor_summary.log` → Tracks vendor summary creation & upload.
-
-- **SQL Used:** JOIN, GROUP BY, CTEs, subqueries, filtering.
-
-- **Python (pandas):** New columns, type conversions, lambda/custom functions, missing value handling.
-
-- **Power BI:**
-  - Loaded **`vendor_sales_summary`** table from SQLite.
-  - Created **calculated tables** for analysis:
-    1. **BrandPerformance** – AvgProfitMargin, TargetBrands, TotalSales  
-    2. **LowTurnoverVendors** – AvgStockTurnover, VendorName  
-    3. **PurchaseContribution** – PurchaseContribution%, TotalPurchaseDollars, VendorName  
-  - Added **calculated columns** in DAX for improved filtering and metrics.
-- Built **live dashboard** with filters, slicers, and drill-down capabilities.  
-- Built **live dashboard** with filters, slicers, and drill-down capabilities.  
+- **Tech Stack Usage:**  
+  - **SQL** — JOIN, GROUP BY, CTEs, subqueries, filtering.  
+  - **Python (pandas)** — Column creation, type conversion, custom functions, missing-value handling.  
+  - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.  
 
 <p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
 <strong>▶️ Check live demo</strong>
@@ -129,11 +116,9 @@ Data was cleaned, standardized, and merged into a single vendor performance data
        style="width:100%; max-width:800px; border-radius:6px;">
 </a>
 
-
-  - Example DAX tables View:  
-    ![Dashboard Screenshot](assets/dax.png) 
-  - Example Dashboard View:  
-    ![Dashboard Screenshot](assets/dashboard_screenshot.png)
+**Example Views:**  
+![Dashboard Screenshot](assets/dax.png)  
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
 </details>
 
