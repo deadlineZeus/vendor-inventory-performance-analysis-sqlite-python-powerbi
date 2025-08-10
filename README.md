@@ -232,7 +232,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Higher sales prices tend to correlate with lower profit margins, possibly due to competitive pricing pressures.</summary>
-<img src="visuals/P12.png" alt="Profit Margin vs Sales Price" width="600" />
+<img src="visuals/P14.png" alt="Profit Margin vs Sales Price" width="600" />
 </details>
 
 </details>
