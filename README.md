@@ -137,7 +137,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary id="statistical-analysis--visualizations"><strong>Statistical Analysis & Visualizations</strong></summary>
+<summary id="statistical-analysis--visualizations"><strong>Statistical Concepts & Visualizations</strong></summary>
 <br>
   
 **Statistical concepts Applied:**
