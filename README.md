@@ -468,10 +468,11 @@ vendor-performance-analysis/
 <details> <summary id="contact"><strong>Contact</strong></summary>
 <br>
   
-Author: Rajdeep Ray
-📧 Email: rajdeepray.c48.it@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/rajdeep-ray-3616501b6/
-🐙 GitHub: https://github.com/deadlineZeus/vendor-inventory-performance-analysis-sqlite-python-powerbi
+- Author: Rajdeep Ray
+- 📱 Ph No: +91 7076918307
+- 📧 Email: rajdeepray.c48.it@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rajdeep-ray-3616501b6/
+- 🐙 GitHub: https://github.com/deadlineZeus/vendor-inventory-performance-analysis-sqlite-python-powerbi
 
 </details> 
 
