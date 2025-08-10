@@ -188,7 +188,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 </details>
 
 <details>
-<summary>• Vendor Dependency: Top 10 vendors = 65.69% of purchases.</summary>
+<summary>• Vendor Dependency: Top 10 vendors = 65.7% of purchases.</summary>
 <img src="visuals/P15.png" alt="Vendor Dependency Chart" width="600" />
 </details>
 
