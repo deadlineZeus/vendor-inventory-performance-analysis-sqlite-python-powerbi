@@ -112,11 +112,14 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
+  
 **DAX and table snapshot Views:**
   ![Dashboard Screenshot](assets/dax.png) 
 <br>
+
 **Dashboard snapshot Views:**
   ![Dashboard Screenshot](assets/dashboard_screenshot.png)
+  
 <p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
 <strong>▶️ Check Dashbaord live demo, click down below</strong>
 </a></p>
