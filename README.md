@@ -221,15 +221,25 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <summary id="recommendations"><strong>Recommendations</strong></summary>
 <br>
 
-1. Re-evaluate pricing for high-margin, low-sales brands.
-2. Optimize slow-moving stock with refined purchasing and clearance promotions.
-3. Support low-performing vendors with targeted marketing and expanded distribution.
-4. Align bulk purchasing with demand to reduce costs without overstocking.
-5. Diversify vendor base to reduce dependency risk.
+1. **Re-evaluate Pricing for Low-Sales, High-Margin Brands**  
+   Review pricing for brands with high margins but low sales to balance profitability and competitiveness. Strategic price adjustments can help capture additional demand without significantly eroding margins.
+
+2. **Optimize Slow-Moving Inventory**  
+   Refine purchase quantities, introduce clearance promotions, and assess storage costs to reduce holding expenses and free up capital for faster-moving, more profitable products.
+
+3. **Enhance Marketing & Distribution for Low-Performing Vendors**  
+   Support underperforming vendors with targeted marketing, expanded distribution channels, and focused sales initiatives to increase sales volumes while preserving profitability.
+
+4. **Leverage Bulk Purchasing Advantages**  
+   Use bulk purchasing strategically to secure competitive pricing and improve inventory turnover. Align orders with demand patterns to cut procurement costs without overstocking.
+
+5. **Diversify Vendor Base**  
+   Reduce reliance on the top 10 suppliers to strengthen supply chain resilience. Expanding the vendor network ensures continuity, mitigates disruption risks, and improves negotiation leverage.
 
 ![Recommendations Chart](assets/recommendations_chart.png)
 
 </details>
+
 
 ---
 
