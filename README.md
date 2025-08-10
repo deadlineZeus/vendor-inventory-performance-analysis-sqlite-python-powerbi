@@ -167,37 +167,51 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <details>
 <summary><strong>High-Margin, Low-Sales Brands:</strong> 198 brands show high profitability but low sales volume.</summary>
 
-![High-Margin Low-Sales Brands Chart](visuals/strategic_high_margin_low_sales.png)
+<br>
+<img src="visuals/strategic_high_margin_low_sales.png" alt="High-Margin Low-Sales Brands Chart" style="max-width:100%; border-radius:6px;">
 
 </details>
 
 <details>
 <summary><strong>Vendor Dependency:</strong> Top 10 vendors = 65.69% of purchases.</summary>
 
-![Vendor Dependency Chart](visuals/strategic_vendor_dependency.png)
+<br>
+<img src="visuals/strategic_vendor_dependency.png" alt="Vendor Dependency Chart" style="max-width:100%; border-radius:6px;">
 
 </details>
 
 <details>
 <summary><strong>Bulk Purchase Benefits:</strong> 72% lower unit cost for large orders.</summary>
 
-![Bulk Purchase Benefits Chart](visuals/strategic_bulk_purchase_benefits.png)
+<br>
+<img src="visuals/strategic_bulk_purchase_benefits.png" alt="Bulk Purchase Benefits Chart" style="max-width:100%; border-radius:6px;">
 
 </details>
 
 <details>
 <summary><strong>Slow-Moving Inventory:</strong> $2.71M tied up in low-turnover stock.</summary>
 
-![Slow-Moving Inventory Chart](visuals/strategic_slow_moving_inventory.png)
+<br>
+<img src="visuals/strategic_slow_moving_inventory.png" alt="Slow-Moving Inventory Chart" style="max-width:100%; border-radius:6px;">
 
 </details>
 
 <details>
 <summary><strong>Profit Margin Models:</strong> Low-performing vendors have higher margins but lower sales.</summary>
 
-![Profit Margin Models Chart](visuals/strategic_profit_margin_models.png)
+<br>
+<img src="visuals/strategic_profit_margin_models.png" alt="Profit Margin Models Chart" style="max-width:100%; border-radius:6px;">
 
 </details>
+
+<details>
+<summary><strong>Statistical Validation:</strong> Significant profit margin difference between top & low vendors.</summary>
+
+<br>
+<img src="visuals/strategic_statistical_validation.png" alt="Statistical Validation Chart" style="max-width:100%; border-radius:6px;">
+
+</details>
+
 
 <details>
 <summary><strong>Statistical Validation:</strong> Significant profit margin difference between top & low vendors.</summary>
