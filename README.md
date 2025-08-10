@@ -297,7 +297,7 @@ The top two performers generate $67.99M and $39.33M in sales respectively. Leadi
 <details>
 <summary><strong>3. Which vendors contribute the most to total purchase dollars?</strong></summary>
 <br>
-Procurement spending is concentrated, with the top three vendors accounting for $50.10M, $25.50M, and $23.85M respectively. This indicates strong supplier partnerships but potential over-reliance on a limited vendor base.
+<em>DIAGEO North America Inc.</em> leads procurement at $50.10M, followed by <em>Martignetti Companies</em> at $25.50M and <em>Pernod Ricard USA</em> at $23.85M. These strong supplier partnerships drive purchasing but increase reliance on a limited vendor base.
 </details>
 
 <details>
