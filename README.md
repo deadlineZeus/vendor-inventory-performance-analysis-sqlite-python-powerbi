@@ -285,58 +285,59 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <details>
 <summary><strong>1. Which brands need promotional or pricing adjustments?</strong></summary>
 <br>
-Brands with low sales but high profit margins, such as <em>Santa Rita Organic Sauvignon Blanc</em>, <em>Crown Royal Apple</em>, and <em>Dad's Hat Rye Whiskey</em>, deliver strong profitability but lack volume. Targeted promotions, increased visibility, or strategic price changes could boost sales while sustaining margins.
+Brands with low sales but high profit margins show strong profitability but lack market penetration. Targeted promotions, better visibility, or strategic price adjustments could help increase sales volumes while maintaining margins.
 </details>
 
 <details>
 <summary><strong>2. Which vendors and brands demonstrate the highest sales performance?</strong></summary>
 <br>
-<em>DIAGEO North America Inc.</em> leads with $67.99M in sales, followed by <em>Martignetti Companies</em> at $39.33M. Top brands include <em>Jack Daniels No. 7 Black</em>, <em>Tito's Handmade Vodka</em>, and <em>Grey Goose Vodka</em>, each exceeding $7M in revenue, reflecting broad appeal and strong market demand.
+A small set of vendors and brands consistently lead sales, combining high demand with strong distribution reach. Their performance reflects broad market appeal and sustained sales momentum.
 </details>
 
 <details>
 <summary><strong>3. Which vendors contribute the most to total purchase dollars?</strong></summary>
 <br>
-Major procurement spending is concentrated with <em>DIAGEO North America Inc.</em> ($50.10M), <em>Martignetti Companies</em> ($25.50M), and <em>Pernod Ricard USA</em> ($23.85M). This concentration shows strong supplier partnerships but also creates reliance on a small group of high-value vendors.
+Procurement spending is heavily concentrated among a few vendors. This indicates strong supplier relationships but also creates dependency risks if their performance, supply terms, or availability change.
 </details>
 
 <details>
 <summary><strong>4. How much of total procurement is dependent on the top vendors?</strong></summary>
 <br>
-The top 10 vendors account for 65.7% of procurement dollars. This reflects efficiency in managing vendor relationships but also a dependency risk, where disruption from a key vendor could impact supply stability and costs.
+The top vendors account for nearly two-thirds of total procurement. While this can improve operational efficiency, it also increases reliance on a small group, making the supply chain more vulnerable to disruptions.
 </details>
 
 <details>
 <summary><strong>5. Does purchasing in bulk reduce the unit cost, and what is the optimal purchase volume for cost savings?</strong></summary>
 <br>
-Yes. Large orders achieve unit costs as low as $10.78—about 72% cheaper than small orders. The greatest cost savings are realized at high purchase volumes, provided inventory turnover remains healthy to avoid overstock and storage costs.
+Yes. Bulk purchases significantly reduce per-unit cost—by over 70% in some cases—maximizing margins when inventory turnover is managed effectively. Optimal savings occur at high purchase volumes without creating overstock.
 </details>
 
 <details>
 <summary><strong>6. Which vendor has low inventory turnover, indicating excess stock and slow-moving products?</strong></summary>
 <br>
-Vendors like <em>Hekman Furniture</em> exhibit low turnover rates, signaling excess stock and slow-moving products. This ties up capital, increases holding costs, and requires better alignment of purchasing with demand forecasts.
+Some vendors show significantly low turnover rates, suggesting excess stock and slow-moving products. This ties up capital, increases storage costs, and risks obsolescence, highlighting the need for better demand-aligned ordering.
 </details>
 
 <details>
 <summary><strong>7. How much capital is locked in unsold inventory per vendor, and which vendor contributes the most?</strong></summary>
 <br>
-Over $2.71M is locked in unsold inventory across vendors. <em>Broyhill</em> holds the largest share, suggesting over-purchasing or slower-than-expected sales, which reduces liquidity and limits reinvestment opportunities.
+Over a million dollars is tied up in unsold inventory, with some vendors holding a disproportionate share. This reduces liquidity and limits investment in marketing, new products, or bulk purchasing opportunities.
 </details>
 
 <details>
 <summary><strong>8. Which vendors achieve the highest gross profit dollars?</strong></summary>
 <br>
-<em>Ashley Furniture</em> leads in gross profit generation, supported by high sales volumes and efficient cost management. This demonstrates strong market demand and a well-optimized supply chain.
+A few vendors achieve the highest gross profit through a strong combination of high sales and efficient cost management. This indicates effective supply chain practices and robust product demand.
 </details>
 
 <details>
 <summary><strong>9. Is there a significant difference in profit margins between top-performing and low-performing vendors?</strong></summary>
 <br>
-Yes. Low-performing vendors average ~41% profit margins versus ~31% for top performers. This indicates that top performers compete on volume with competitive pricing, while low performers focus on niche or premium pricing strategies.
+Yes. Low-performing vendors have noticeably higher margins but lower sales volumes, often due to niche or premium pricing strategies. Top performers achieve lower margins but drive higher overall revenue through competitive pricing and greater sales volume.
 </details>
 
 </details>
+
 
 ---
 
