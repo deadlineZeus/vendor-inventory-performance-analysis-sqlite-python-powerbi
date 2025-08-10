@@ -25,6 +25,7 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 - [Project Workflow Overview](#project-workflow-overview)
 - [Tools & Technologies](#tools--technologies)
 - [Data Preparation & Processing](#data-preparation--processing)
+- [Power BI Section Demo](#power-bi-section-demo)
 - [Statistical Analysis & Visualizations](#statistical-analysis--visualizations)
 - [General Findings](#general-findings)
 - [Strategic Findings](#strategic-findings)
@@ -116,10 +117,18 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
        style="width:100%; max-width:800px; border-radius:6px;">
 </a>
 
-**Example Views:**  
-![Dashboard Screenshot](assets/dax.png)  
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+</details>
 
+---
+
+<details>
+<summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
+**DAX and table snapshot Views:** 
+![Dashboard Screenshot](assets/dax.png) 
+<br>
+**Dashboard snapshot Views:** 
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+  
 </details>
 
 ---
