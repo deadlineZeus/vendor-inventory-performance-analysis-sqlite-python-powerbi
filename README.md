@@ -226,7 +226,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary>• Profit Margin Models: Low-performing vendors have higher margins but lower sales.</summary>
-<img src="visuals/P14.png" alt="Profit Margin Models Chart" width="600" />
+<img src="visuals/P20.png" alt="Profit Margin Models Chart" width="600" />
 </details>
 
 <details>
