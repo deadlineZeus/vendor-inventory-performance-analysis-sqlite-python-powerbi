@@ -58,14 +58,29 @@ Vendor and inventory performance directly influence **profitability**, **cash fl
 <details>
 <summary id="project-workflow-overview"><strong>Project Workflow Overview</strong></summary>
 <br>
-  
-CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database → Analysis & Dashboard on Jupyter Notebook → Insights & Recommendations → final report
 
-**Phases:**
+### Data Flow Summary:
+CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database → Analysis & Dashboard on Jupyter Notebook → Insights & Recommendations → Final Report
+
+---
+
+### Project Phases:
+
 - **Phase 1 – Exploratory_Data_Analysis.ipynb**  
-  Data ingestion, database setup, aggregated table creation, logging.
+  - Data ingestion from CSV files  
+  - Database setup (SQLite)  
+  - Creation of aggregated vendor table  
+  - Logging for process tracking  
+
 - **Phase 2 – Vendor_Performance_Analysis.ipynb**  
-  Statistical analysis, answering business questions, creating visualizations, and generating actionable insights.
+  - Statistical analysis of aggregated data  
+  - Answering business questions  
+  - Creating visualizations  
+  - Generating actionable insights  
+
+---
+
+### Visual Overview:
 
 ![Workflow Diagram](assets/project_flowchart.png)
 
@@ -77,14 +92,14 @@ CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database �
 <summary id="tools--technologies"><strong>Tools & Technologies</strong></summary>
 <br>
 
-| Category | Tools / Languages |
-|----------|-------------------|
-| **Business Intelligence** | Power BI, DAX, M Language |
-| **Python Libraries** | pandas, numpy, matplotlib, seaborn, sqlite3, SQLAlchemy |
-| **Database** | SQLite | 
-| **SQL Features Used** | JOIN, WHERE, GROUP BY, ORDER BY, Subqueries, CTEs, Table creation |
-| **Statistics** | Descriptive statistics, IQR, Percentiles, Quantile discretization, Cumulative sum, Confidence intervals, Hypothesis testing, Significance testing, T-test |
-| **IDE / Environment** | Jupyter Notebook |
+| **Category**             | **Tools / Languages**                                                      |
+|--------------------------|---------------------------------------------------------------------------|
+| **Business Intelligence** | Power BI, DAX, M Language                                                 |
+| **Python Libraries**      | pandas, numpy, matplotlib, seaborn, sqlite3, SQLAlchemy                   |
+| **Database**              | SQLite                                                                    |
+| **SQL Features Used**     | JOIN, WHERE, GROUP BY, ORDER BY, Subqueries, CTEs, Table creation        |
+| **Statistics**            | Descriptive stats, IQR, Percentiles, Quantile discretization, Cumulative sum, Confidence intervals, Hypothesis testing (T-test, significance testing) |
+| **IDE / Environment**     | Jupyter Notebook                                                          |
 
 </details>
 
@@ -94,20 +109,44 @@ CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database �
 <summary id="data-preparation--processing"><strong>Data Preparation & Processing</strong></summary>
 <br>
 
-**Manager Summary:**  
-Data from multiple CSV files was cleaned, standardized, and merged into a unified aggregated vendor performance dataset, powering a **real-time Power BI dashboard** for vendor and inventory insights.
+### Manager Summary:  
+Data from multiple CSV files was cleaned, standardized, and merged into a unified aggregated vendor performance dataset, which powers a **real-time Power BI dashboard** for vendor and inventory insights.
 
-**High Level Details:**  
-- **Scripts & Logging:**  
-  - ingestion_db.py — Loads CSVs into SQLite with large-file handling and ingestion logs (log/logging.log).  
-  - get_vendor_summary.py — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (log/get_vendor_summary.log).  
+---
 
-- **Tech Stack Usage:**  
-  - **SQL** — JOIN, GROUP BY, CTEs, subqueries, filtering.  
-  - **Python (pandas)** — Column creation, type conversion, custom functions, missing-value handling.  
-  - **Power BI** — Loaded vendor_sales_summary, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.
-    
+### Implementation Details:
+
+- **Scripts & Logging:**
+
+  - `ingestion_db.py`  
+    - Loads raw CSV files into SQLite database  
+    - Handles large file ingestion efficiently  
+    - Maintains ingestion logs at `log/logging.log`
+
+  - `get_vendor_summary.py`  
+    - Performs SQL aggregations to generate summary data  
+    - Cleans and calculates key performance indicators (KPIs)  
+    - Uploads summary table back to the database  
+    - Maintains detailed logs at `log/get_vendor_summary.log`
+
+---
+
+### Technology Usage:
+
+- **SQL:**  
+  - Complex queries using JOINs, GROUP BY, CTEs, subqueries, and filtering to aggregate data efficiently.
+
+- **Python (pandas):**  
+  - Data transformation tasks such as column creation, type conversions, custom function applications, and missing-value handling.
+
+- **Power BI:**  
+  - Loaded aggregated vendor sales summary table  
+  - Built calculated tables including `BrandPerformance`, `LowTurnoverVendors`, and `PurchaseContribution`  
+  - Added calculated DAX columns for business metrics  
+  - Designed interactive filters and slicers to enable dynamic dashboard exploration
+
 </details>
+
 
 ---
 
