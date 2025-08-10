@@ -161,19 +161,42 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary id="general-findings"><strong>General Findings</strong></summary>
-<br>
+<summary><strong>General Findings</strong></summary>
 
-- Loss-making transactions due to high costs or zero revenue.
-- Outliers:  
-  - Purchase Price max = 5,681.81 vs mean = 24.39  
-  - Freight Cost range = 0.09 to 257,032.07  
-- Strong correlation between purchase quantity and sales quantity (0.999).
-- Weak correlation between purchase price and gross profit (–0.016).
+**_(Click each insight to see the supporting chart)_**
 
-![General Findings Chart](assets/general_findings_chart.png)
+<details>
+<summary>• Some products incur significant losses, with gross profit minimum reaching -52,000+, indicating pricing or cost issues.</summary>
+<img src="visuals/P9.png" alt="Gross Profit Losses Overview" width="600" />
+</details>
+
+<details>
+<summary>• Strong correlation (0.999) between purchase quantity and sales quantity confirms effective inventory turnover.</summary>
+<img src="visuals/P6.png" alt="Purchase vs Sales Quantity Correlation" width="600" />
+</details>
+
+<details>
+<summary>• Freight costs vary hugely, from less than 1 to over 250,000, highlighting potential logistics inefficiencies or bulk shipments.</summary>
+<img src="visuals/P7.png" alt="Freight Cost Variation" width="600" />
+</details>
+
+<details>
+<summary>• Stock turnover ranges widely; some products sell fast, others remain in stock indefinitely, impacting working capital.</summary>
+<img src="visuals/P8.png" alt="Stock Turnover Range" width="600" />
+</details>
+
+<details>
+<summary>• Price variations have little impact on sales revenue or gross profit, indicating other factors drive profitability.</summary>
+<img src="visuals/P5.png" alt="Purchase Price Correlations" width="600" />
+</details>
+
+<details>
+<summary>• Higher sales prices tend to correlate with lower profit margins, possibly due to competitive pricing pressures.</summary>
+<img src="visuals/P4.png" alt="Profit Margin vs Sales Price" width="600" />
+</details>
 
 </details>
+
 
 ---
 
