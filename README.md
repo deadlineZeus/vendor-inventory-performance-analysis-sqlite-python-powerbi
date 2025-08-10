@@ -321,7 +321,7 @@ Vendors like <em>Hekman Furniture</em> exhibit low turnover rates, signaling exc
 <details>
 <summary><strong>7. How much capital is locked in unsold inventory per vendor, and which vendor contributes the most?</strong></summary>
 <br>
-Over $1.2M is locked in unsold inventory across vendors. <em>Broyhill</em> holds the largest share, suggesting over-purchasing or slower-than-expected sales, which reduces liquidity and limits reinvestment opportunities.
+Over $2.71M is locked in unsold inventory across vendors. <em>Broyhill</em> holds the largest share, suggesting over-purchasing or slower-than-expected sales, which reduces liquidity and limits reinvestment opportunities.
 </details>
 
 <details>
