@@ -29,6 +29,7 @@ Stakeholders gain access to a **live, interactive Power BI dashboard** enabling 
 - [Statistical Analysis & Visualizations](#statistical-analysis--visualizations)
 - [General Insights](#general-insights)
 - [Strategic Insights](#strategic-insights)
+- [Business Questions & Answers](#business-questions-answers)
 - [Recommendations](#recommendations)
 - [Technical Execution Details](#technical-execution-details)
 - [Folder Structure](#folder-structure)
