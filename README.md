@@ -59,7 +59,7 @@ Vendor and inventory performance directly influence **profitability**, **cash fl
 <summary id="project-workflow-overview"><strong>Project Workflow Overview</strong></summary>
 <br>
   
-CSV Files → SQLite Database → Aggregated Vendor Table → Analysis & Dashboard → Insights & Recommendations
+CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database → Analysis & Dashboard on Jupyter Notebook → Insights & Recommendations → final report
 
 **Phases:**
 - **Phase 1 – Exploratory_Data_Analysis.ipynb**  
