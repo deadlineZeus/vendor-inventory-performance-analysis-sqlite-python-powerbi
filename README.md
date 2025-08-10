@@ -154,7 +154,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
 <br>
   
-**DAX and table snapshot Views:**
+**DAX and table snapshot:**
   ![Dashboard Screenshot](assets/dax.png) 
 <br>
 
