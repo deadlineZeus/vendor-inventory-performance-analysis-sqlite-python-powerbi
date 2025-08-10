@@ -112,6 +112,7 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 <details>
 <summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
+<br>
   
 **DAX and table snapshot Views:**
   ![Dashboard Screenshot](assets/dax.png) 
@@ -121,13 +122,13 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
   ![Dashboard Screenshot](assets/dashboard_screenshot.png)
   
 <p><a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
-<strong>▶️ Check Dashbaord live demo, click down below</strong>
+<strong>▶️ Check Dashbaord live demo on YouTube, click down below</strong>
 </a></p>
 
 <a href="https://youtu.be/6Yqrk_L77L8" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/6Yqrk_L77L8/hqdefault.jpg"
        alt="Vendor Performance Analysis — Live demo"
-       style="width:100%; max-width:800px; border-radius:6px;">
+       style="width:100%; max-width:400px; border-radius:6px;">
 </a>
   
 </details>
