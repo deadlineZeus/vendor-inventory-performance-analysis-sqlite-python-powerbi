@@ -161,17 +161,53 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 ---
 
 <details>
-<summary id="general-findings"><strong>General Findings</strong></summary>
+<summary><strong>Strategic Findings</strong></summary>
 <br>
 
-- Loss-making transactions due to high costs or zero revenue.
-- Outliers:  
-  - Purchase Price max = 5,681.81 vs mean = 24.39  
-  - Freight Cost range = 0.09 to 257,032.07  
-- Strong correlation between purchase quantity and sales quantity (0.999).
-- Weak correlation between purchase price and gross profit (–0.016).
+<details>
+<summary><strong>High-Margin, Low-Sales Brands:</strong> 198 brands show high profitability but low sales volume.</summary>
 
-![General Findings Chart](assets/general_findings_chart.png)
+![High-Margin Low-Sales Brands Chart](visuals/strategic_high_margin_low_sales.png)
+
+</details>
+
+<details>
+<summary><strong>Vendor Dependency:</strong> Top 10 vendors = 65.69% of purchases.</summary>
+
+![Vendor Dependency Chart](visuals/strategic_vendor_dependency.png)
+
+</details>
+
+<details>
+<summary><strong>Bulk Purchase Benefits:</strong> 72% lower unit cost for large orders.</summary>
+
+![Bulk Purchase Benefits Chart](visuals/strategic_bulk_purchase_benefits.png)
+
+</details>
+
+<details>
+<summary><strong>Slow-Moving Inventory:</strong> $2.71M tied up in low-turnover stock.</summary>
+
+![Slow-Moving Inventory Chart](visuals/strategic_slow_moving_inventory.png)
+
+</details>
+
+<details>
+<summary><strong>Profit Margin Models:</strong> Low-performing vendors have higher margins but lower sales.</summary>
+
+![Profit Margin Models Chart](visuals/strategic_profit_margin_models.png)
+
+</details>
+
+<details>
+<summary><strong>Statistical Validation:</strong> Significant profit margin difference between top & low vendors.</summary>
+
+![Statistical Validation Chart](visuals/strategic_statistical_validation.png)
+
+</details>
+
+</details>
+
 
 </details>
 
