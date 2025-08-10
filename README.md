@@ -95,9 +95,9 @@ CSV Files → SQLite Database → Aggregated Vendor Table → SQLite Database �
 <br>
 
 **Manager Summary:**  
-Data from multiple CSV files was cleaned, standardized, and merged into a unified vendor performance dataset, powering a **real-time Power BI dashboard** for vendor and inventory insights.
+Data from multiple CSV files was cleaned, standardized, and merged into a unified aggregated vendor performance dataset, powering a **real-time Power BI dashboard** for vendor and inventory insights.
 
-**Technical Details:**  
+**High level Details:**  
 - **Scripts & Logging:**  
   - `ingestion_db.py` — Loads CSVs into SQLite with large-file handling and ingestion logs (`log/logging.log`).  
   - `get_vendor_summary.py` — Runs SQL aggregations, cleans data, calculates KPIs, uploads summary table, logs to (`log/get_vendor_summary.log`).  
@@ -105,7 +105,8 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 - **Tech Stack Usage:**  
   - **SQL** — JOIN, GROUP BY, CTEs, subqueries, filtering.  
   - **Python (pandas)** — Column creation, type conversion, custom functions, missing-value handling.  
-  - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.  
+  - **Power BI** — Loaded `vendor_sales_summary`, built calculated tables (BrandPerformance, LowTurnoverVendors, PurchaseContribution), added calculated DAX columns, and designed interactive filters/slicers.
+    
 </details>
 
 ---
