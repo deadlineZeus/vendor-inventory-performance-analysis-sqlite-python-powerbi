@@ -154,6 +154,10 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 <details>
 <summary id="power-bi-section-demo"><strong>Power BI section demo</strong></summary>
 <br>
+
+In this project, Power BI, especially DAX and M-language was used. With the existing vendor sales summary data, new tables, new columns and measures were created for easier visualization later on. 
+
+Firstly, the dataset was loaded
   
 **DAX and table snapshot:**
   ![Dashboard Screenshot](assets/dax.png) 
