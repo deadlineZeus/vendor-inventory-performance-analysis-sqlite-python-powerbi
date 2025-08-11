@@ -157,7 +157,9 @@ Data from multiple CSV files was cleaned, standardized, and merged into a unifie
 
 In this project, Power BI, especially DAX and M-language was used. With the existing vendor sales summary data, new tables, new columns and measures were created for easier visualization later on. 
 
-Firstly, the dataset was loaded
+Firstly, the dataset was loaded then a new table (PurchaseContribution) was created and in it vendor wise purchase contribution was measured. Then a new column for brandwise profit margins was created in a new table (called BrandPerformance) with target brands that have low sales but high profit margins. Lastly, a third new table called LowTurnoverVendors was created to check the average stock turnover for each vendor for optimization stretegy making later on and M language was used throughout for making these.
+
+Finally, in report view section, interactive dashboard was created for visual summarisation.
   
 **DAX and table snapshot:**
   ![Dashboard Screenshot](assets/dax.png) 
